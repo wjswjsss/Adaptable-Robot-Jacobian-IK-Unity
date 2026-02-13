@@ -6,20 +6,7 @@ Language selector: default is English. Click the English link to view the Englis
 
 <p align="right">其他语言: <a href="README.md">English</a></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity?style=flat-square" alt="Language Stats">
-  <img src="https://img.shields.io/github/languages/code-size/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity?style=flat-square" alt="Code Size">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/license/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity?style=flat-square" alt="License">
-  <img src="https://img.shields.io/github/last-commit/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity?style=flat-square" alt="Last Commit">
-</p>
+ 
 
 ## 演示 (Demo)
 
@@ -35,3 +22,18 @@ Language selector: default is English. Click the English link to view the Englis
 </p>
 
 若预览 GIF 尚未存在，上方链接将打开 raw MP4；你也可以直接前往 `demo/` 文件夹查看。
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity?style=flat-square" alt="Language Stats">
+  <img src="https://img.shields.io/github/languages/code-size/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity?style=flat-square" alt="Code Size">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/last-commit/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity?style=flat-square" alt="Last Commit">
+</p>
