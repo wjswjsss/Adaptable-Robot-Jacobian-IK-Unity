@@ -26,8 +26,7 @@ Language selector: default is English. Click the English link to view the Englis
 `demo/` 文件夹包含了一个 AR 拾放（pick-and-place）演示（参见 `demo/ar_pick_place.mp4`），该演示中使用的 IK Solver 就是本仓库中的 IK Solver。
 
 <!-- 内嵌演示视频：若无法播放，请使用下方链接下载或前往 demo/ 查看 -->
-<video controls width="640">
-  <source src="https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/ar_pick_place.mp4" type="video/mp4">
-  您的浏览器不支持 video 标签。您可以从此处下载视频：
-  <a href="https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/ar_pick_place.mp4">raw 文件</a>，或前往 `demo/` 文件夹查看。
-</video>
+<!-- 预览 GIF，点击将打开 raw MP4（请在本地生成 demo/preview.gif 并推送） -->
+[![演示预览](https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/preview.gif)](https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/ar_pick_place.mp4)
+
+若预览 GIF 尚未存在，上方链接将打开 raw MP4；你也可以直接前往 `demo/` 文件夹查看。
