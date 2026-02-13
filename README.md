@@ -20,3 +20,14 @@ This is a Jacobian-based IK Solver running in Unity, derived from the [AR2-D2 pr
   <img src="https://img.shields.io/github/license/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity?style=flat-square" alt="License">
   <img src="https://img.shields.io/github/last-commit/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity?style=flat-square" alt="Last Commit">
 </p>
+ 
+## Demo
+
+The `demo/` folder contains an AR pick-and-place demo (see `demo/ar_pick_place.mp4`) that uses the IK Solver implemented in this repository. In other words, the IK Solver used by the demo is this repository's IK Solver.
+
+<!-- Embedded demo video: if playback fails, the links below provide direct download/view -->
+<video controls width="640">
+  <source src="https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/ar_pick_place.mp4" type="video/mp4">
+  Your browser does not support the video tag. You can download it from
+  <a href="https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/ar_pick_place.mp4">raw file</a> or view the `demo/` folder.
+</video>

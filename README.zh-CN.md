@@ -21,3 +21,13 @@ Language selector: default is English. Click the English link to view the Englis
   <img src="https://img.shields.io/github/last-commit/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity?style=flat-square" alt="Last Commit">
 </p>
 
+## 演示 (Demo)
+
+`demo/` 文件夹包含了一个 AR 拾放（pick-and-place）演示（参见 `demo/ar_pick_place.mp4`），该演示中使用的 IK Solver 就是本仓库中的 IK Solver。
+
+<!-- 内嵌演示视频：若无法播放，请使用下方链接下载或前往 demo/ 查看 -->
+<video controls width="640">
+  <source src="https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/ar_pick_place.mp4" type="video/mp4">
+  您的浏览器不支持 video 标签。您可以从此处下载视频：
+  <a href="https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/ar_pick_place.mp4">raw 文件</a>，或前往 `demo/` 文件夹查看。
+</video>
