@@ -27,6 +27,10 @@ The `demo/` folder contains an AR pick-and-place demo (see `demo/ar_pick_place.m
 
 <!-- Embedded demo video: if playback fails, the links below provide direct download/view -->
 <!-- Preview GIF linking to raw MP4 (generate demo/preview.gif locally and push) -->
-[![Demo Preview](https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/preview.gif)](https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/ar_pick_place.mp4)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/ar_pick_place.mp4">
+    <img src="https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/preview.gif" width="480" alt="Demo Preview">
+  </a>
+</p>
 
 If the preview GIF does not exist yet, the link above will open the raw MP4 file; you can also view the `demo/` folder.

@@ -27,6 +27,11 @@ Language selector: default is English. Click the English link to view the Englis
 
 <!-- 内嵌演示视频：若无法播放，请使用下方链接下载或前往 demo/ 查看 -->
 <!-- 预览 GIF，点击将打开 raw MP4（请在本地生成 demo/preview.gif 并推送） -->
-[![演示预览](https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/preview.gif)](https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/ar_pick_place.mp4)
+<!-- 预览 GIF，点击将打开 raw MP4（请在本地生成 demo/preview.gif 并推送） -->
+<p align="center">
+  <a href="https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/ar_pick_place.mp4">
+    <img src="https://raw.githubusercontent.com/wjswjsss/Adaptable-Robot-Jacobian-IK-Unity/main/demo/preview.gif" width="480" alt="演示预览">
+  </a>
+</p>
 
 若预览 GIF 尚未存在，上方链接将打开 raw MP4；你也可以直接前往 `demo/` 文件夹查看。
