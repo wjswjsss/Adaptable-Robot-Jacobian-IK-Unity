@@ -6,6 +6,7 @@ Language selector: default is English. To view Chinese, click the 中文 link.
 
 This is a Jacobian-based IK Solver running in Unity, derived from the [AR2-D2 project](https://github.com/jiafei1224/AR2-D2) by [jiafei1224](https://github.com/jiafei1224). A huge thank you to their team for their incredible work. Originally designed for the Franka Emika Panda arm (files in `Panda/`), I have successfully adapted it for the UR3e robotic arm, which is now performing well (files in `UR/`). I’m sharing my modifications here in hopes that this might help if you're looking for a Jacobian-based IK solver. I have also prepared an [AI adaptation prompt](./ADAPTATION_GUIDE.md) that you can directly provide to an AI assistant to help you make customized adjustments for your own setup.
 
+Thanks to [10-OASIS-01](https://github.com/10-OASIS-01) for their guidance and support.
  
  
 ## Demo
